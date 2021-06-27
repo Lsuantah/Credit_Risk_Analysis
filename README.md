@@ -13,6 +13,8 @@ The objective of this project is use Machine learning techniques such as Resampl
 * Precision Score - Low Risk: 1.00
 * Recall Score high risk: 69%
 * Recall Score low risk: 61%
+![randomoversampler](https://user-images.githubusercontent.com/75961117/123529907-f063bd80-d6c2-11eb-9eb1-27472ccaeb90.PNG)
+
 
 
 ## SMOTE Oversampling
