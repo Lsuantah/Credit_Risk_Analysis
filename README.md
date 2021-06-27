@@ -25,6 +25,9 @@ The objective of this project is use Machine learning techniques such as Resampl
 * Recall Score high risk: 60%
 * Recall Score low risk: 66%
 
+![SMOTE](https://user-images.githubusercontent.com/75961117/123529929-391b7680-d6c3-11eb-93fc-1d995fdf8b3e.PNG)
+
+
 ## Cluster Centroids
 
 * Balanced Accuracy Score: 52.95%
