@@ -72,6 +72,8 @@ The objective of this project is use Machine learning techniques such as Resampl
 * Recall Score high risk: 89%
 * Recall Score low risk: 94%
 
+![EasyEnsemple](https://user-images.githubusercontent.com/75961117/123530231-12127400-d6c6-11eb-9dc0-81e13eb9f7cf.PNG)
+
 
 ## Summary: 
 
