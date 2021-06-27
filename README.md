@@ -82,13 +82,17 @@ From all the machine learning model, Easy Ensemble Classifier produced the most 
 1.	Easy Ensemble Classifier
 
 Balanced Accuracy Score: 91.78%
+
 Recall Score high risk: 89%
+
 Recall Score low risk: 94%
 
 2.	Random Forest Classifier
 
 Balanced Accuracy Score: 78.37%
+
 Recall Score high risk: 67%
+
 Recall Score low risk: 89%
 
 I would recommend Easy Ensemble Classifier to be used as it gives the most accurate prediction from all the models. 
