@@ -47,6 +47,9 @@ The objective of this project is use Machine learning techniques such as Resampl
 * Recall Score high risk: 70%
 * Recall Score low risk: 57%
 
+![SMOTEEN](https://user-images.githubusercontent.com/75961117/123529989-c1018080-d6c3-11eb-9dee-b2e059b1a465.PNG)
+
+
 
 ## Random Forest Classifier
 
