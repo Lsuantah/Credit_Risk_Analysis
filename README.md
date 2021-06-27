@@ -36,6 +36,8 @@ The objective of this project is use Machine learning techniques such as Resampl
 * Recall Score high risk: 61%
 * Recall Score low risk: 45%
 
+![CLUSTERCENTROID](https://user-images.githubusercontent.com/75961117/123529945-6f58f600-d6c3-11eb-9900-cba20d7e4088.PNG)
+
 
 ## SMOTEENN
 
