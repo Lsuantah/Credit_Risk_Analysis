@@ -59,6 +59,10 @@ The objective of this project is use Machine learning techniques such as Resampl
 * Recall Score high risk: 67%
 * Recall Score low risk: 89%
 
+![Randomforest](https://user-images.githubusercontent.com/75961117/123530170-754fd680-d6c5-11eb-9668-2470886ad67b.PNG)
+
+
+
 
 ## Easy Ensemble Classifier
 
